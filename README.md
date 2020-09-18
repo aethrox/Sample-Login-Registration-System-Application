@@ -22,7 +22,7 @@ pip install PyQt5
 ![Image](https://github.com/1nnr3d/Sample-Login-Registration-System-Application/blob/master/image/login.png)
 
 # Register / Kayıt
-![Image](https://github.com/1nnr3d/Sample-Login-Registration-System-Application/blob/master/image/register.)
+![Image](https://github.com/1nnr3d/Sample-Login-Registration-System-Application/blob/master/image/register.png)
 
 
 ## License

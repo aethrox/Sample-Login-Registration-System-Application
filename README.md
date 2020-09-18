@@ -1,5 +1,5 @@
 # Sample-Login - Registration-System-Application
-Sample Login - Registration System Application - Örnek Giriş - Kayıt Sistemi Uygulaması
+Sample Login - Registration System Application / Örnek Giriş - Kayıt Sistemi Uygulaması
 
 # Modules / Modüller
 

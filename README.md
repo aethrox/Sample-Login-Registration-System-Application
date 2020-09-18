@@ -19,10 +19,10 @@ pip install PyQt5
       3.8.5
 
 # Login / Giriş
-![Image](https://github.com/1nnr3d/SMTP-Mail-System-App/blob/master/images/ss.png)
+![Image](https://github.com/1nnr3d/Sample-Login-Registration-System-Application/blob/master/image/login.png)
 
 # Register / Kayıt
-![Image](https://github.com/1nnr3d/SMTP-Mail-System-App/blob/master/images/ss.png)
+![Image](https://github.com/1nnr3d/Sample-Login-Registration-System-Application/blob/master/image/register.)
 
 
 ## License

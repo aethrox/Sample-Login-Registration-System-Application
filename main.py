@@ -32,6 +32,7 @@ class mainWindow(QtWidgets.QMainWindow):
         self.username.setPlaceholderText("Username")
         self.password = QtWidgets.QLineEdit()
         self.password.setPlaceholderText("Password")
+        self.password.setEchoMode(QtWidgets.QLineEdit.Password)
         self.loginBtn = QtWidgets.QPushButton("Login")
         self.loginBtn.clicked.connect(self.login)
         self.loginBtn.setStyleSheet("background-color: transparent;")
